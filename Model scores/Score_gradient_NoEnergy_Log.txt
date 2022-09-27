@@ -1,0 +1,5 @@
+R2 score: -33720751386031.65
+r2 score antilog: 0.8488343281332098
+mean absolute error: 3991975.2075024224
+mean absolute error antilog: 985033.1267812933
+RMSE antilog 1897028.7150655598
